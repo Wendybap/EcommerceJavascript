@@ -1,0 +1,58 @@
+th,
+td {
+  padding: 12px 15px;
+  text-align: left;
+  border-bottom: 1px solid #e1e1e1;
+}
+th:first-child,
+td:first-child {
+  padding-left: 0;
+}
+th:last-child,
+td:last-child {
+  padding-right: 0;
+}
+
+.button {
+  text-decoration: none;
+  background-color: #f291bf;
+  color: rgb(255, 255, 255);
+  margin-bottom: 1rem;
+  padding: 10px;
+  border-radius: 50px;
+  list-style: none;
+  width: 20px;
+  height: 20px;
+}
+input,
+textarea,
+select,
+fieldset {
+  margin-bottom: 1.5rem;
+}
+pre,
+blockquote,
+dl,
+figure,
+table,
+p,
+ul,
+ol,
+form {
+  margin-bottom: 2.5rem;
+}
+.u-full-width {
+  width: 100%;
+  box-sizing: border-box;
+}
+.btn-cicle {
+  width: 30px;
+  border-radius: 100% !important;
+}
+.carritoCompras {
+  justify-content: center;
+  text-align: center;
+}
+.hidden-footer {
+  height: 80px;
+}

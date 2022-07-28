@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "url": "/img/deco1.5.jpg",
+    "titulo": "Baby Shower",
+    "precio": 10000
+  },
+  {
+    "id": "2",
+    "url": "/img/deco_playa.jpg",
+    "titulo": "Playero",
+    "precio": 12000
+  },
+  {
+    "id": "3",
+    "url": "/img/deco_bb.jpg",
+    "titulo": "Cumpleaños",
+    "precio": 10000
+  },
+  {
+    "id": "4",
+    "url": "/img/box_3.jpg",
+    "titulo": "Box de Cumpleaños",
+    "precio": 4000
+  },
+  {
+    "id": "5",
+    "url": "/img/box_4.jpg",
+    "titulo": "Box con peluche",
+    "precio": 5500
+  },
+  {
+    "id": "6",
+    "url": "/img/box_5.jpg",
+    "titulo": "Box con Numeros",
+    "precio": 3500
+  },
+  {
+    "id": "7",
+    "url": "/img/waffles_5.jpg",
+    "titulo": "Waffles Frutales",
+    "precio": 700
+  },
+  {
+    "id": "8",
+    "url": "/img/waffles_4.jpg",
+    "titulo": "Waffles Veganos",
+    "precio": 750
+  },
+  {
+    "id": "9",
+    "url": "/img/waffles_3.jpg",
+    "titulo": "Waffles con Helado",
+    "precio": 850
+  },
+  {
+    "id": "10",
+    "url": "/img/fondo3.jpg",
+    "titulo": "Set de Globos",
+    "precio": 800
+  },
+  {
+    "id": "11",
+    "url": "/img/set5.jpg",
+    "titulo": "Set de Globos Unicornio",
+    "precio": 800
+  },
+  {
+    "id": "12",
+    "url": "/img/set10.jpg",
+    "titulo": "Set Globos y banderines",
+    "precio": 850
+  }
+]

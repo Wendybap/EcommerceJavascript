@@ -1,0 +1,22 @@
+// Estitlod del formulario de contactos
+#buttonShow {
+  font-size: 1rem;
+}
+.container_i {
+  display: grid;
+  place-items: center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  background: #fafafa;
+}
+
+form {
+  display: grid;
+  row-gap: 24px;
+  margin: 0;
+}
+
+#nombre-usuario {
+  color: #fafafa;
+}
